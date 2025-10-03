@@ -61,7 +61,11 @@ Mushaf-App/
 
 ## 🙌 Credits
 - **Quran API:** [alquran.cloud](https://alquran.cloud/api)  
-- **Recitations:** Mishary Rashid Al-Afasy  
+- **Recitations:** Mishary Rashid Al-Afasy
+- You can try the app online here:  
+[Live Mushaf App](https://mushafapp-2q3vw88kxjxd3zluvc9bua.streamlit.app/)
+
+---
 - **UI Framework:** Streamlit  
 
 ---
